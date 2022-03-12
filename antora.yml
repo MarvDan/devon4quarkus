@@ -1,0 +1,6 @@
+name: devon4quarkus
+title: Devon4quarkus
+version: '1.0'
+start_page: devon4quarkus::Home.adoc
+nav:
+- modules/ROOT/nav.adoc
